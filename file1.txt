@@ -1,0 +1,3 @@
+Bu benim file1.txt isimli dosyam.
+Burada bazı değişiklikler yapıyorum.
+İkinci değişikliği yaptım.
