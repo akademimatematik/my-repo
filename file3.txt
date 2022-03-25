@@ -1,0 +1,1 @@
+Bu benim file3 isimli dosyam. Local repoda oluşturuldu ve remote a eklenecek
